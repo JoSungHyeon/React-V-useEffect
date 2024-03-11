@@ -1,3 +1,3 @@
-# React + Vite
+# React + Vite useEffect
 
 use Effect
